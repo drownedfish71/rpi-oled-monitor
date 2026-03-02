@@ -191,7 +191,7 @@ oled-monitor/
 
 ## 📧 聯絡方式
 
-專案連結：[https://github.com/yourname/oled-monitor](https://github.com/yourname/oled-monitor)
+專案連結：[https://github.com/drownedfish71](https://github.com/drownedfish71)
 
 ---
 
