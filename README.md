@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="IMG_5142.png" width="400" alt="OLED 實際顯示畫面">
+  <img src="IMG_5143.png" width="400" alt="OLED 實際顯示畫面">
 </p>
 
 ## 📖 專案介紹
