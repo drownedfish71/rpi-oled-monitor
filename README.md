@@ -160,7 +160,7 @@ rpi-oled-monitor/
 ├── requirements.txt    # Python 套件需求
 ├── install.sh         # 自動安裝腳本
 ├── README.md          # 說明文件
-├── IMG_5142.png       # 實際顯示照片
+├── IMG_5143.png       # 實際顯示照片
 └── venv/              # 虛擬環境（安裝後產生）
 ```
 
