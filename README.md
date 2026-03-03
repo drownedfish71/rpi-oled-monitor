@@ -79,7 +79,7 @@ i2cdetect -y 1
 下載專案：
 
 ```bash
-git clone https://github.com/yourname/oled-monitor.git
+git clone https://github.com/drownedfish71/oled-monitor.git
 cd oled-monitor
 ```
 
